@@ -1,4 +1,4 @@
-#Credit Card interest for a Person.  
+# Credit Card interest for a Person.  
  
 Visa gets 10%
 MC gets 5% interest
